@@ -1,2 +1,2 @@
-# JavaScript面向程序设计 
-[对象&属性](https://github.com/ClownWang-1217/JavaScript/blob/main/object.md)
+# JavaScript如何面向对象编程 
+[对象](https://github.com/ClownWang-1217/JavaScript/blob/main/object.md)
